@@ -1,0 +1,90 @@
+[
+    {
+      "name": "Tech Innovators Inc.",
+      "companyLogo": "https://example.com/logos/tech-innovators.png",
+      "location": "Surabaya!",
+      "email": "info@techinnovators.com",
+      "description": "A leading tech company focused on innovation and cutting-edge solutions.",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Global Marketing Solutions",
+      "companyLogo": "https://example.com/logos/global-marketing.png",
+      "location": "New York, NY",
+      "email": "contact@globalmarketing.com",
+      "description": "Specializing in marketing and advertising strategies for global brands."
+    },
+    {
+      "id": 2,
+      "name": "DesignCraft Studios",
+      "companyLogo": "https://example.com/logos/designcraft-studios.png",
+      "location": "Los Angeles, CA",
+      "email": "hello@designcraftstudios.com",
+      "description": "Creative design and branding agency offering top-notch design services."
+    },
+    {
+      "id": 3,
+      "name": "CustomerCare Pro",
+      "companyLogo": "https://example.com/logos/customercare-pro.png",
+      "location": "Chicago, IL",
+      "email": "support@customercarepro.com",
+      "description": "Dedicated to providing excellent customer support solutions."
+    },
+    {
+      "id": 4,
+      "name": "Financial Wizards LLC",
+      "companyLogo": "https://example.com/logos/financial-wizards.png",
+      "location": "Boston, MA",
+      "email": "info@financialwizardsllc.com",
+      "description": "Experts in financial services and investment strategies."
+    },
+    {
+      "id": 5,
+      "name": "SalesGenius Co.",
+      "companyLogo": "https://example.com/logos/salesgenius.png",
+      "location": "Seattle, WA",
+      "email": "contact@salesgeniusco.com",
+      "description": "Driving sales success through innovative strategies and solutions."
+    },
+    {
+      "id": 6,
+      "name": "Content Creators Network",
+      "companyLogo": "https://example.com/logos/content-creators.png",
+      "location": "Austin, TX",
+      "email": "info@contentcreatorsnetwork.com",
+      "description": "A network of talented content creators and storytellers."
+    },
+    {
+      "id": 7,
+      "name": "Data Insights Ltd.",
+      "companyLogo": "https://example.com/logos/data-insights.png",
+      "location": "Denver, CO",
+      "email": "contact@datainsightsltd.com",
+      "description": "Unlocking valuable insights from data for informed decisions."
+    },
+    {
+      "id": 8,
+      "name": "HR Solutions Group",
+      "companyLogo": "https://example.com/logos/hr-solutions.png",
+      "location": "Miami, FL",
+      "email": "info@hrsolutionsgroup.com",
+      "description": "Comprehensive human resources and talent management solutions."
+    },
+    {
+      "id": 9,
+      "name": "Express Logistics Inc.",
+      "companyLogo": "https://example.com/logos/express-logistics.png",
+      "location": "Dallas, TX",
+      "email": "contact@expresslogisticsinc.com",
+      "description": "Efficient logistics and supply chain solutions for businesses."
+    },
+    {
+      "name": "dapo",
+      "companyLogo": "https://png.pngtree.com/png-clipart/20220117/original/pngtree-cool-red-wings-logo-png-image_7129340.png",
+      "location": "surabaya",
+      "email": "png@mail.com",
+      "description": "sdkjadsk",
+      "id": 10
+    }
+]

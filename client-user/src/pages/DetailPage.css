@@ -1,0 +1,16 @@
+.css-14g3jz1 {
+    background-image: url("/images/flag-container-bg.png");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+@media (min-width: 1024px) {
+    .css-15kz1p5 {
+      max-height: 28rem;
+    }
+}
+@media (min-width: 1280px) {
+    .css-15kz1p5 {
+      max-height: 32rem;
+    }
+}
